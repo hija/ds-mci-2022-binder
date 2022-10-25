@@ -10,5 +10,3 @@ scikit-learn
 scikit-image
 imbalanced-learn
 bamboolib
-ipywidgets
-install_nbextensions
